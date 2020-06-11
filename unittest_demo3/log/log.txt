@@ -1,0 +1,1123 @@
+[2020-01-19 15:50:19,833] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:62 , ?????????????{
+  "code": 9420, 
+  "msg": "???qzcsbj????????", 
+  "token": "da7d74d3612faeec9175449c154176e9"
+}
+
+[2020-01-19 15:50:21,549] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:62 , ?????????????{
+  "code": 9550, 
+  "msg": "?????????", 
+  "username": "test133"
+}
+
+[2020-01-19 15:50:23,185] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:62 , ?????????????{
+  "code": 9600, 
+  "msg": "??????"
+}
+
+[2020-01-19 15:52:15,687] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:62 , ?????????????{
+  "code": 9420, 
+  "msg": "???qzcsbj????????", 
+  "token": "35bff8a6198a894dfdd64332cf16fd23"
+}
+
+[2020-01-19 15:52:17,990] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:62 , ?????????????{
+  "code": 9550, 
+  "msg": "?????????", 
+  "username": "test133"
+}
+
+[2020-01-19 15:52:19,892] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:62 , ?????????????{
+  "code": 9600, 
+  "msg": "??????"
+}
+
+[2020-01-19 15:52:31,225] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:62 , ?????????????{
+  "code": 9420, 
+  "msg": "???qzcsbj????????", 
+  "token": "119dd6526c4f1eaad8f95482efb93157"
+}
+
+[2020-01-19 15:52:34,013] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:62 , ?????????????{
+  "code": 9550, 
+  "msg": "?????????", 
+  "username": "test133"
+}
+
+[2020-01-19 15:52:35,138] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:62 , ?????????????{
+  "code": 9600, 
+  "msg": "??????"
+}
+
+[2020-01-19 15:55:46,102] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:59 , ==========?????????????case_1??test_user_login_ok==========
+[2020-01-19 15:55:48,526] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:62 , ?????????????{
+  "code": 9420, 
+  "msg": "???qzcsbj????????", 
+  "token": "e94498dddb680716d1c229c5989a06f1"
+}
+
+[2020-01-19 15:55:48,530] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:59 , ==========?????????????case_4??test_user_add_ok==========
+[2020-01-19 15:55:54,798] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:62 , ?????????????{
+  "code": 9550, 
+  "msg": "?????????", 
+  "username": "test133"
+}
+
+[2020-01-19 15:55:54,801] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:59 , ==========?????????????case_7??test_user_del_ok==========
+[2020-01-19 15:55:59,383] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:62 , ?????????????{
+  "code": 9600, 
+  "msg": "??????"
+}
+
+[2020-01-19 15:57:53,283] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:30 , ==========???????????????case_1??test_user_login_ok==========??
+[2020-01-19 15:57:54,941] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:61 , ?????????????{
+  "code": 9420, 
+  "msg": "???qzcsbj????????", 
+  "token": "e9ece3e101d51ea8d812e4d526e00d98"
+}
+
+[2020-01-19 15:57:54,945] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:30 , ==========???????????????case_4??test_user_add_ok==========??
+[2020-01-19 15:57:56,441] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:61 , ?????????????{
+  "code": 9550, 
+  "msg": "?????????", 
+  "username": "test133"
+}
+
+[2020-01-19 15:57:56,444] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:30 , ==========???????????????case_7??test_user_del_ok==========??
+[2020-01-19 15:57:57,502] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:61 , ?????????????{
+  "code": 9600, 
+  "msg": "??????"
+}
+
+[2020-01-19 16:01:30,390] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:30 , ==========???????????????case_1??test_user_login_ok??==========
+[2020-01-19 16:01:30,391] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:37 , ==========?????method???post??==========
+[2020-01-19 16:01:30,391] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:38 , ==========?????url???http://127.0.0.1:9999/login2??==========
+[2020-01-19 16:01:30,391] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:39 , ==========?????headers???{"content-type": "application/json"}??==========
+[2020-01-19 16:01:30,391] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:40 , ==========?????cookies?????==========
+[2020-01-19 16:01:30,391] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:41 , ==========?????params?????==========
+[2020-01-19 16:01:30,391] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:42 , ==========?????body???{"username": "qzcsbj", "password": "123456"}??==========
+[2020-01-19 16:01:30,391] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:43 , ==========????????assertRes???$..code=9420;??==========
+[2020-01-19 16:01:30,850] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:68 , ?????????????{
+  "code": 9420, 
+  "msg": "???qzcsbj????????", 
+  "token": "a2eb00996d45292423a141add8c8ce06"
+}
+
+[2020-01-19 16:01:30,858] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:30 , ==========???????????????case_4??test_user_add_ok??==========
+[2020-01-19 16:01:30,858] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:37 , ==========?????method???post??==========
+[2020-01-19 16:01:30,858] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:38 , ==========?????url???http://127.0.0.1:9999/add_user3??==========
+[2020-01-19 16:01:30,859] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:39 , ==========?????headers???{"content-type": "application/json"}??==========
+[2020-01-19 16:01:30,859] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:40 , ==========?????cookies???{"token":"a2eb00996d45292423a141add8c8ce06"}??==========
+[2020-01-19 16:01:30,859] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:41 , ==========?????params?????==========
+[2020-01-19 16:01:30,859] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:42 , ==========?????body???{"adduser":"qzcsbj","data":{"username":"test133","realname":"test133","sex":"1","phone":"13800000133"}}??==========
+[2020-01-19 16:01:30,859] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:43 , ==========????????assertRes???$..code=9550;??==========
+[2020-01-19 16:01:32,413] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:68 , ?????????????{
+  "code": 9550, 
+  "msg": "?????????", 
+  "username": "test133"
+}
+
+[2020-01-19 16:01:32,416] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:30 , ==========???????????????case_7??test_user_del_ok??==========
+[2020-01-19 16:01:32,416] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:37 , ==========?????method???post??==========
+[2020-01-19 16:01:32,417] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:38 , ==========?????url???http://127.0.0.1:9999/del_user??==========
+[2020-01-19 16:01:32,417] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:39 , ==========?????headers???{"content-type": "application/json"}??==========
+[2020-01-19 16:01:32,417] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:40 , ==========?????cookies?????==========
+[2020-01-19 16:01:32,417] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:41 , ==========?????params?????==========
+[2020-01-19 16:01:32,417] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:42 , ==========?????body???{"adduser":"qzcsbj", "token":"a2eb00996d45292423a141add8c8ce06", "username":"test133"}??==========
+[2020-01-19 16:01:32,417] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:43 , ==========????????assertRes???$..code=9600;$..msg=????????==========
+[2020-01-19 16:01:33,765] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:68 , ?????????????{
+  "code": 9600, 
+  "msg": "??????"
+}
+
+[2020-01-19 16:02:43,273] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:30 , ==========???????????????case_1??test_user_login_ok??==========
+[2020-01-19 16:02:43,273] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:37 , > > > > >?????method???post
+[2020-01-19 16:02:43,273] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:38 , > > > > >?????url???http://127.0.0.1:9999/login2
+[2020-01-19 16:02:43,273] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:39 , > > > > >?????headers???{"content-type": "application/json"}
+[2020-01-19 16:02:43,273] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:40 , > > > > >?????cookies???
+[2020-01-19 16:02:43,274] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:41 , > > > > >?????params???
+[2020-01-19 16:02:43,274] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:42 , > > > > >?????body???{"username": "qzcsbj", "password": "123456"}
+[2020-01-19 16:02:43,274] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:43 , > > > > >????????assertRes???$..code=9420;
+[2020-01-19 16:02:47,145] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:68 , ?????????????{
+  "code": 9420, 
+  "msg": "???qzcsbj????????", 
+  "token": "3432e5534f0d1cddd1312caf0f4e2abe"
+}
+
+[2020-01-19 16:02:47,149] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:30 , ==========???????????????case_4??test_user_add_ok??==========
+[2020-01-19 16:02:47,149] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:37 , > > > > >?????method???post
+[2020-01-19 16:02:47,150] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:38 , > > > > >?????url???http://127.0.0.1:9999/add_user3
+[2020-01-19 16:02:47,150] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:39 , > > > > >?????headers???{"content-type": "application/json"}
+[2020-01-19 16:02:47,150] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:40 , > > > > >?????cookies???{"token":"3432e5534f0d1cddd1312caf0f4e2abe"}
+[2020-01-19 16:02:47,150] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:41 , > > > > >?????params???
+[2020-01-19 16:02:47,150] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:42 , > > > > >?????body???{"adduser":"qzcsbj","data":{"username":"test133","realname":"test133","sex":"1","phone":"13800000133"}}
+[2020-01-19 16:02:47,150] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:43 , > > > > >????????assertRes???$..code=9550;
+[2020-01-19 16:02:57,010] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:68 , ?????????????{
+  "code": 9550, 
+  "msg": "?????????", 
+  "username": "test133"
+}
+
+[2020-01-19 16:02:57,013] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:30 , ==========???????????????case_7??test_user_del_ok??==========
+[2020-01-19 16:02:57,014] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:37 , > > > > >?????method???post
+[2020-01-19 16:02:57,014] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:38 , > > > > >?????url???http://127.0.0.1:9999/del_user
+[2020-01-19 16:02:57,014] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:39 , > > > > >?????headers???{"content-type": "application/json"}
+[2020-01-19 16:02:57,014] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:40 , > > > > >?????cookies???
+[2020-01-19 16:02:57,014] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:41 , > > > > >?????params???
+[2020-01-19 16:02:57,014] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:42 , > > > > >?????body???{"adduser":"qzcsbj", "token":"3432e5534f0d1cddd1312caf0f4e2abe", "username":"test133"}
+[2020-01-19 16:02:57,014] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:43 , > > > > >????????assertRes???$..code=9600;$..msg=??????
+[2020-01-19 16:02:59,742] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:68 , ?????????????{
+  "code": 9600, 
+  "msg": "??????"
+}
+
+[2020-01-19 16:08:20,939] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:30 , ==========???????????????case_1??test_user_login_ok??==========
+[2020-01-19 16:08:20,940] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:37 , > > > > >?????method???post
+[2020-01-19 16:08:20,940] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:38 , > > > > >?????url???http://127.0.0.1:9999/login2
+[2020-01-19 16:08:20,940] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:39 , > > > > >?????headers???{"content-type": "application/json"}
+[2020-01-19 16:08:20,940] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:40 , > > > > >?????cookies???
+[2020-01-19 16:08:20,940] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:41 , > > > > >?????params???
+[2020-01-19 16:08:20,940] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:42 , > > > > >?????body???{"username": "qzcsbj", "password": "123456"}
+[2020-01-19 16:08:20,940] [ERROR] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:43 , > > > > >????????assertRes???$..code=9420;
+[2020-01-19 16:08:21,918] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:68 , ?????????????{
+  "code": 9420, 
+  "msg": "???qzcsbj????????", 
+  "token": "f4e46381a09d9aa8e62f33206a3b3a4c"
+}
+
+[2020-01-19 16:08:21,924] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:30 , ==========???????????????case_4??test_user_add_ok??==========
+[2020-01-19 16:08:21,924] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:37 , > > > > >?????method???post
+[2020-01-19 16:08:21,924] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:38 , > > > > >?????url???http://127.0.0.1:9999/add_user3
+[2020-01-19 16:08:21,924] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:39 , > > > > >?????headers???{"content-type": "application/json"}
+[2020-01-19 16:08:21,925] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:40 , > > > > >?????cookies???{"token":"f4e46381a09d9aa8e62f33206a3b3a4c"}
+[2020-01-19 16:08:21,925] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:41 , > > > > >?????params???
+[2020-01-19 16:08:21,925] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:42 , > > > > >?????body???{"adduser":"qzcsbj","data":{"username":"test133","realname":"test133","sex":"1","phone":"13800000133"}}
+[2020-01-19 16:08:21,925] [ERROR] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:43 , > > > > >????????assertRes???$..code=9550;
+[2020-01-19 16:08:24,324] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:68 , ?????????????{
+  "code": 9550, 
+  "msg": "?????????", 
+  "username": "test133"
+}
+
+[2020-01-19 16:08:24,327] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:30 , ==========???????????????case_7??test_user_del_ok??==========
+[2020-01-19 16:08:24,327] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:37 , > > > > >?????method???post
+[2020-01-19 16:08:24,327] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:38 , > > > > >?????url???http://127.0.0.1:9999/del_user
+[2020-01-19 16:08:24,327] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:39 , > > > > >?????headers???{"content-type": "application/json"}
+[2020-01-19 16:08:24,328] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:40 , > > > > >?????cookies???
+[2020-01-19 16:08:24,328] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:41 , > > > > >?????params???
+[2020-01-19 16:08:24,328] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:42 , > > > > >?????body???{"adduser":"qzcsbj", "token":"f4e46381a09d9aa8e62f33206a3b3a4c", "username":"test133"}
+[2020-01-19 16:08:24,328] [ERROR] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:43 , > > > > >????????assertRes???$..code=9600;$..msg=??????
+[2020-01-19 16:08:26,996] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:68 , ?????????????{
+  "code": 9600, 
+  "msg": "??????"
+}
+
+[2020-01-19 17:28:03,640] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:30 , ==========???????????????case_1??test_user_login_ok??==========
+[2020-01-19 17:28:03,640] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:37 , > > > > >?????method???post
+[2020-01-19 17:28:03,640] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:38 , > > > > >?????url???http://127.0.0.1:9999/login2
+[2020-01-19 17:28:03,641] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:39 , > > > > >?????headers???{"content-type": "application/json"}
+[2020-01-19 17:28:03,641] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:40 , > > > > >?????cookies???
+[2020-01-19 17:28:03,641] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:41 , > > > > >?????params???
+[2020-01-19 17:28:03,641] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:42 , > > > > >?????body???{"username": "qzcsbj", "password": "123456"}
+[2020-01-19 17:28:03,641] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:43 , > > > > >????????assertRes???$..code=9420;
+[2020-01-19 17:28:05,291] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:68 , ?????????????{
+  "code": 9420, 
+  "msg": "???qzcsbj????????", 
+  "token": "c80eaddf5162dbc75c8475eeb5feb0c3"
+}
+
+[2020-01-19 17:28:05,297] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:30 , ==========???????????????case_4??test_user_add_ok??==========
+[2020-01-19 17:28:05,298] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:37 , > > > > >?????method???post
+[2020-01-19 17:28:05,298] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:38 , > > > > >?????url???http://127.0.0.1:9999/add_user3
+[2020-01-19 17:28:05,298] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:39 , > > > > >?????headers???{"content-type": "application/json"}
+[2020-01-19 17:28:05,298] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:40 , > > > > >?????cookies???{"token":"c80eaddf5162dbc75c8475eeb5feb0c3"}
+[2020-01-19 17:28:05,298] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:41 , > > > > >?????params???
+[2020-01-19 17:28:05,299] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:42 , > > > > >?????body???{"adduser":"qzcsbj","data":{"username":"test133","realname":"test133","sex":"1","phone":"13800000133"}}
+[2020-01-19 17:28:05,299] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:43 , > > > > >????????assertRes???$..code=9550;
+[2020-01-19 17:28:07,447] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:68 , ?????????????{
+  "code": 9550, 
+  "msg": "?????????", 
+  "username": "test133"
+}
+
+[2020-01-19 17:28:07,451] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:30 , ==========???????????????case_7??test_user_del_ok??==========
+[2020-01-19 17:28:07,452] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:37 , > > > > >?????method???post
+[2020-01-19 17:28:07,452] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:38 , > > > > >?????url???http://127.0.0.1:9999/del_user
+[2020-01-19 17:28:07,452] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:39 , > > > > >?????headers???{"content-type": "application/json"}
+[2020-01-19 17:28:07,452] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:40 , > > > > >?????cookies???
+[2020-01-19 17:28:07,452] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:41 , > > > > >?????params???
+[2020-01-19 17:28:07,452] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:42 , > > > > >?????body???{"adduser":"qzcsbj", "token":"c80eaddf5162dbc75c8475eeb5feb0c3", "username":"test133"}
+[2020-01-19 17:28:07,452] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:43 , > > > > >????????assertRes???$..code=9600;$..msg=??????
+[2020-01-19 17:28:10,977] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:68 , ?????????????{
+  "code": 9600, 
+  "msg": "??????"
+}
+
+[2020-01-19 17:43:51,601] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:30 , ==========???????????????case_1??test_user_login_ok??==========
+[2020-01-19 17:43:51,602] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:37 , > > > > >?????method???post
+[2020-01-19 17:43:51,602] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:38 , > > > > >?????url???http://127.0.0.1:9999/login2
+[2020-01-19 17:43:51,603] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:39 , > > > > >?????headers???{"content-type": "application/json"}
+[2020-01-19 17:43:51,603] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:40 , > > > > >?????cookies???
+[2020-01-19 17:43:51,603] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:41 , > > > > >?????params???
+[2020-01-19 17:43:51,603] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:42 , > > > > >?????body???{"username": "qzcsbj", "password": "123456"}
+[2020-01-19 17:43:51,603] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:43 , > > > > >????????assertRes???$..code=9420;
+[2020-01-19 17:43:52,205] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:68 , ?????????????{
+  "code": 9420, 
+  "msg": "???qzcsbj????????", 
+  "token": "0b8f87223c02e30c9adbbe398fd25c11"
+}
+
+[2020-01-19 17:43:52,208] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:77 , ?????????pass
+[2020-01-19 17:43:52,210] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:30 , ==========???????????????case_4??test_user_add_ok??==========
+[2020-01-19 17:43:52,210] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:37 , > > > > >?????method???post
+[2020-01-19 17:43:52,210] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:38 , > > > > >?????url???http://127.0.0.1:9999/add_user3
+[2020-01-19 17:43:52,210] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:39 , > > > > >?????headers???{"content-type": "application/json"}
+[2020-01-19 17:43:52,210] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:40 , > > > > >?????cookies???{"token":"0b8f87223c02e30c9adbbe398fd25c11"}
+[2020-01-19 17:43:52,210] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:41 , > > > > >?????params???
+[2020-01-19 17:43:52,211] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:42 , > > > > >?????body???{"adduser":"qzcsbj","data":{"username":"test133","realname":"test133","sex":"1","phone":"13800000133"}}
+[2020-01-19 17:43:52,211] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:43 , > > > > >????????assertRes???$..code=9550;
+[2020-01-19 17:43:54,711] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:68 , ?????????????{
+  "code": 9550, 
+  "msg": "?????????", 
+  "username": "test133"
+}
+
+[2020-01-19 17:43:54,713] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:77 , ?????????pass
+[2020-01-19 17:43:54,715] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:30 , ==========???????????????case_7??test_user_del_ok??==========
+[2020-01-19 17:43:54,715] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:37 , > > > > >?????method???post
+[2020-01-19 17:43:54,715] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:38 , > > > > >?????url???http://127.0.0.1:9999/del_user
+[2020-01-19 17:43:54,715] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:39 , > > > > >?????headers???{"content-type": "application/json"}
+[2020-01-19 17:43:54,715] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:40 , > > > > >?????cookies???
+[2020-01-19 17:43:54,715] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:41 , > > > > >?????params???
+[2020-01-19 17:43:54,715] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:42 , > > > > >?????body???{"adduser":"qzcsbj", "token":"0b8f87223c02e30c9adbbe398fd25c11", "username":"test133"}
+[2020-01-19 17:43:54,716] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:43 , > > > > >????????assertRes???$..code=9600;$..msg=??????
+[2020-01-19 17:43:56,511] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:68 , ?????????????{
+  "code": 9600, 
+  "msg": "??????"
+}
+
+[2020-01-19 17:43:56,514] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:77 , ?????????pass
+[2020-01-19 17:45:45,438] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:30 , ==========???????????????case_1??test_user_login_ok??==========
+[2020-01-19 17:45:45,439] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:37 , > > > > >?????method???post
+[2020-01-19 17:45:45,440] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:38 , > > > > >?????url???http://127.0.0.1:9999/login2
+[2020-01-19 17:45:45,440] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:39 , > > > > >?????headers???{"content-type": "application/json"}
+[2020-01-19 17:45:45,440] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:40 , > > > > >?????cookies???
+[2020-01-19 17:45:45,440] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:41 , > > > > >?????params???
+[2020-01-19 17:45:45,441] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:42 , > > > > >?????body???{"username": "qzcsbj", "password": "123456"}
+[2020-01-19 17:45:45,441] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:43 , > > > > >????????assertRes???$..code=9420;
+[2020-01-19 17:45:45,857] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:68 , ?????????????{
+  "code": 9420, 
+  "msg": "???qzcsbj????????", 
+  "token": "4d658f0c92d76cf0cfc2ce039ec4a48c"
+}
+
+[2020-01-19 17:45:45,861] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:77 , ?????????pass
+
+
+[2020-01-19 17:45:45,862] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:30 , ==========???????????????case_4??test_user_add_ok??==========
+[2020-01-19 17:45:45,863] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:37 , > > > > >?????method???post
+[2020-01-19 17:45:45,863] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:38 , > > > > >?????url???http://127.0.0.1:9999/add_user3
+[2020-01-19 17:45:45,863] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:39 , > > > > >?????headers???{"content-type": "application/json"}
+[2020-01-19 17:45:45,863] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:40 , > > > > >?????cookies???{"token":"4d658f0c92d76cf0cfc2ce039ec4a48c"}
+[2020-01-19 17:45:45,863] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:41 , > > > > >?????params???
+[2020-01-19 17:45:45,863] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:42 , > > > > >?????body???{"adduser":"qzcsbj","data":{"username":"test133","realname":"test133","sex":"1","phone":"13800000133"}}
+[2020-01-19 17:45:45,864] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:43 , > > > > >????????assertRes???$..code=9550;
+[2020-01-19 17:45:47,238] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:68 , ?????????????{
+  "code": 9550, 
+  "msg": "?????????", 
+  "username": "test133"
+}
+
+[2020-01-19 17:45:47,242] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:77 , ?????????pass
+
+
+[2020-01-19 17:45:47,243] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:30 , ==========???????????????case_7??test_user_del_ok??==========
+[2020-01-19 17:45:47,243] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:37 , > > > > >?????method???post
+[2020-01-19 17:45:47,243] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:38 , > > > > >?????url???http://127.0.0.1:9999/del_user
+[2020-01-19 17:45:47,243] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:39 , > > > > >?????headers???{"content-type": "application/json"}
+[2020-01-19 17:45:47,244] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:40 , > > > > >?????cookies???
+[2020-01-19 17:45:47,244] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:41 , > > > > >?????params???
+[2020-01-19 17:45:47,244] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:42 , > > > > >?????body???{"adduser":"qzcsbj", "token":"4d658f0c92d76cf0cfc2ce039ec4a48c", "username":"test133"}
+[2020-01-19 17:45:47,244] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:43 , > > > > >????????assertRes???$..code=9600;$..msg=??????
+[2020-01-19 17:45:48,321] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:68 , ?????????????{
+  "code": 9600, 
+  "msg": "??????"
+}
+
+[2020-01-19 17:45:48,324] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:77 , ?????????pass
+
+
+[2020-01-19 17:54:27,379] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:30 , ==========???????????????case_1??test_user_login_ok??==========
+[2020-01-19 17:54:27,380] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:37 , > > > > >?????method???post
+[2020-01-19 17:54:27,381] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:38 , > > > > >?????url???http://127.0.0.1:9999/login2
+[2020-01-19 17:54:27,381] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:39 , > > > > >?????headers???{"content-type": "application/json"}
+[2020-01-19 17:54:27,381] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:40 , > > > > >?????cookies???
+[2020-01-19 17:54:27,381] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:41 , > > > > >?????params???
+[2020-01-19 17:54:27,382] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:42 , > > > > >?????body???{"username": "qzcsbj", "password": "123456"}
+[2020-01-19 17:54:27,382] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:43 , > > > > >????????assertRes???$..code=9420;
+[2020-01-19 17:54:27,853] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:68 , ?????????????{
+  "code": 9420, 
+  "msg": "???qzcsbj????????", 
+  "token": "7eb9b18b61233c077687944af273db12"
+}
+
+[2020-01-19 17:54:27,870] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:77 , ?????????pass
+
+
+[2020-01-19 17:54:27,872] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:30 , ==========???????????????case_4??test_user_add_ok??==========
+[2020-01-19 17:54:27,872] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:37 , > > > > >?????method???post
+[2020-01-19 17:54:27,872] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:38 , > > > > >?????url???http://127.0.0.1:9999/add_user3
+[2020-01-19 17:54:27,872] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:39 , > > > > >?????headers???{"content-type": "application/json"}
+[2020-01-19 17:54:27,872] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:40 , > > > > >?????cookies???{"token":"7eb9b18b61233c077687944af273db12"}
+[2020-01-19 17:54:27,872] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:41 , > > > > >?????params???
+[2020-01-19 17:54:27,872] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:42 , > > > > >?????body???{"adduser":"qzcsbj","data":{"username":"test133","realname":"test133","sex":"1","phone":"13800000133"}}
+[2020-01-19 17:54:27,873] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:43 , > > > > >????????assertRes???$..code=9550;
+[2020-01-19 17:54:29,249] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:68 , ?????????????{
+  "code": 9550, 
+  "msg": "?????????", 
+  "username": "test133"
+}
+
+[2020-01-19 17:54:29,252] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:77 , ?????????pass
+
+
+[2020-01-19 17:54:29,254] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:30 , ==========???????????????case_7??test_user_del_ok??==========
+[2020-01-19 17:54:29,254] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:37 , > > > > >?????method???post
+[2020-01-19 17:54:29,254] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:38 , > > > > >?????url???http://127.0.0.1:9999/del_user
+[2020-01-19 17:54:29,255] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:39 , > > > > >?????headers???{"content-type": "application/json"}
+[2020-01-19 17:54:29,255] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:40 , > > > > >?????cookies???
+[2020-01-19 17:54:29,255] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:41 , > > > > >?????params???
+[2020-01-19 17:54:29,255] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:42 , > > > > >?????body???{"adduser":"qzcsbj", "token":"7eb9b18b61233c077687944af273db12", "username":"test133"}
+[2020-01-19 17:54:29,255] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:43 , > > > > >????????assertRes???$..code=9600;$..msg=??????
+[2020-01-19 17:54:30,293] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:68 , ?????????????{
+  "code": 9600, 
+  "msg": "??????"
+}
+
+[2020-01-19 17:54:30,295] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:77 , ?????????pass
+
+
+[2020-01-19 17:56:17,901] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:30 , ==========???????????????case_1??test_user_login_ok??==========
+[2020-01-19 17:56:17,902] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:37 , > > > > >?????method???post
+[2020-01-19 17:56:17,902] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:38 , > > > > >?????url???http://127.0.0.1:9999/login2
+[2020-01-19 17:56:17,902] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:39 , > > > > >?????headers???{"content-type": "application/json"}
+[2020-01-19 17:56:17,902] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:40 , > > > > >?????cookies???
+[2020-01-19 17:56:17,904] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:41 , > > > > >?????params???
+[2020-01-19 17:56:17,904] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:42 , > > > > >?????body???{"username": "qzcsbj", "password": "123456"}
+[2020-01-19 17:56:17,904] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:43 , > > > > >????????assertRes???$..code=9420;
+[2020-01-19 17:56:18,517] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:68 , ?????????????{
+  "code": 9420, 
+  "msg": "???qzcsbj????????", 
+  "token": "1d30f4105ce04c9751e20c116b4efc64"
+}
+
+[2020-01-19 17:56:18,521] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:77 , ?????????pass
+
+
+[2020-01-19 17:56:18,523] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:30 , ==========???????????????case_4??test_user_add_ok??==========
+[2020-01-19 17:56:18,524] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:37 , > > > > >?????method???post
+[2020-01-19 17:56:18,524] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:38 , > > > > >?????url???http://127.0.0.1:9999/add_user3
+[2020-01-19 17:56:18,524] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:39 , > > > > >?????headers???{"content-type": "application/json"}
+[2020-01-19 17:56:18,524] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:40 , > > > > >?????cookies???{"token":"1d30f4105ce04c9751e20c116b4efc64"}
+[2020-01-19 17:56:18,524] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:41 , > > > > >?????params???
+[2020-01-19 17:56:18,524] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:42 , > > > > >?????body???{"adduser":"qzcsbj","data":{"username":"test133","realname":"test133","sex":"1","phone":"13800000133"}}
+[2020-01-19 17:56:18,525] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:43 , > > > > >????????assertRes???$..code=9550;
+[2020-01-19 17:56:20,867] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:68 , ?????????????{
+  "code": 9550, 
+  "msg": "?????????", 
+  "username": "test133"
+}
+
+[2020-01-19 17:56:20,870] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:77 , ?????????pass
+
+
+[2020-01-19 17:56:20,871] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:30 , ==========???????????????case_7??test_user_del_ok??==========
+[2020-01-19 17:56:20,871] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:37 , > > > > >?????method???post
+[2020-01-19 17:56:20,871] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:38 , > > > > >?????url???http://127.0.0.1:9999/del_user
+[2020-01-19 17:56:20,871] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:39 , > > > > >?????headers???{"content-type": "application/json"}
+[2020-01-19 17:56:20,872] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:40 , > > > > >?????cookies???
+[2020-01-19 17:56:20,872] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:41 , > > > > >?????params???
+[2020-01-19 17:56:20,872] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:42 , > > > > >?????body???{"adduser":"qzcsbj", "token":"1d30f4105ce04c9751e20c116b4efc64", "username":"test133"}
+[2020-01-19 17:56:20,872] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:43 , > > > > >????????assertRes???$..code=9600;$..msg=??????
+[2020-01-19 17:56:24,753] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:68 , ?????????????{
+  "code": 9600, 
+  "msg": "??????"
+}
+
+[2020-01-19 17:56:24,756] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:77 , ?????????pass
+
+
+[2020-01-19 18:00:40,571] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:30 , ==========???????????????case_1??test_user_login_ok??==========
+[2020-01-19 18:00:40,572] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:37 , > > > > >?????method???post
+[2020-01-19 18:00:40,572] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:38 , > > > > >?????url???http://127.0.0.1:9999/login2
+[2020-01-19 18:00:40,572] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:39 , > > > > >?????headers???{"content-type": "application/json"}
+[2020-01-19 18:00:40,572] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:40 , > > > > >?????cookies???
+[2020-01-19 18:00:40,573] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:41 , > > > > >?????params???
+[2020-01-19 18:00:40,573] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:42 , > > > > >?????body???{"username": "qzcsbj", "password": "123456"}
+[2020-01-19 18:00:40,573] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:43 , > > > > >????????assertRes???$..code=9420;
+[2020-01-19 18:00:41,016] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:68 , ?????????????{
+  "code": 9420, 
+  "msg": "???qzcsbj????????", 
+  "token": "83e1f87b9ba1dc4a536fd80cc0c42997"
+}
+
+[2020-01-19 18:00:41,019] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:77 , ?????????pass
+
+
+[2020-01-19 18:00:41,021] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:30 , ==========???????????????case_4??test_user_add_ok??==========
+[2020-01-19 18:00:41,021] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:37 , > > > > >?????method???post
+[2020-01-19 18:00:41,021] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:38 , > > > > >?????url???http://127.0.0.1:9999/add_user3
+[2020-01-19 18:00:41,021] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:39 , > > > > >?????headers???{"content-type": "application/json"}
+[2020-01-19 18:00:41,021] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:40 , > > > > >?????cookies???{"token":"83e1f87b9ba1dc4a536fd80cc0c42997"}
+[2020-01-19 18:00:41,022] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:41 , > > > > >?????params???
+[2020-01-19 18:00:41,022] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:42 , > > > > >?????body???{"adduser":"qzcsbj","data":{"username":"test133","realname":"test133","sex":"1","phone":"13800000133"}}
+[2020-01-19 18:00:41,022] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:43 , > > > > >????????assertRes???$..code=9550;
+[2020-01-19 18:00:42,345] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:68 , ?????????????{
+  "code": 9550, 
+  "msg": "?????????", 
+  "username": "test133"
+}
+
+[2020-01-19 18:00:42,347] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:77 , ?????????pass
+
+
+[2020-01-19 18:00:42,348] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:30 , ==========???????????????case_7??test_user_del_ok??==========
+[2020-01-19 18:00:42,349] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:37 , > > > > >?????method???post
+[2020-01-19 18:00:42,349] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:38 , > > > > >?????url???http://127.0.0.1:9999/del_user
+[2020-01-19 18:00:42,349] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:39 , > > > > >?????headers???{"content-type": "application/json"}
+[2020-01-19 18:00:42,349] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:40 , > > > > >?????cookies???
+[2020-01-19 18:00:42,349] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:41 , > > > > >?????params???
+[2020-01-19 18:00:42,349] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:42 , > > > > >?????body???{"adduser":"qzcsbj", "token":"83e1f87b9ba1dc4a536fd80cc0c42997", "username":"test133"}
+[2020-01-19 18:00:42,349] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:43 , > > > > >????????assertRes???$..code=9600;$..msg=??????
+[2020-01-19 18:00:43,402] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:68 , ?????????????{
+  "code": 9600, 
+  "msg": "??????"
+}
+
+[2020-01-19 18:00:43,404] [DEBUG] [G:\qzcsbj\my_rf_bak\test_case\test_cases.py : test_my_request_:77 , ?????????pass
+
+
+[2020-01-20 15:52:37,028] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:30 , ==========???????????????case_1??test_user_login_ok??==========
+[2020-01-20 15:52:37,029] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:37 , > > > > >?????method???post
+[2020-01-20 15:52:37,029] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:38 , > > > > >?????url???http://127.0.0.1:9999/login2
+[2020-01-20 15:52:37,029] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:39 , > > > > >?????headers???{"content-type": "application/json"}
+[2020-01-20 15:52:37,029] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:40 , > > > > >?????cookies???
+[2020-01-20 15:52:37,030] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:41 , > > > > >?????params???
+[2020-01-20 15:52:37,030] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:42 , > > > > >?????body???{"username": "qzcsbj", "password": "123456"}
+[2020-01-20 15:52:37,030] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:43 , > > > > >????????assertRes???$..code=9420;
+[2020-01-20 15:52:37,486] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:68 , ?????????????{
+  "code": 9420, 
+  "msg": "???qzcsbj????????", 
+  "token": "476855f40b29f03bf3ba32df58347974"
+}
+
+[2020-01-20 15:52:37,489] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:77 , ?????????pass
+
+
+[2020-01-20 15:52:37,490] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:30 , ==========???????????????case_4??test_user_add_ok??==========
+[2020-01-20 15:52:37,490] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:37 , > > > > >?????method???post
+[2020-01-20 15:52:37,490] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:38 , > > > > >?????url???http://127.0.0.1:9999/add_user3
+[2020-01-20 15:52:37,491] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:39 , > > > > >?????headers???{"content-type": "application/json"}
+[2020-01-20 15:52:37,491] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:40 , > > > > >?????cookies???{"token":"476855f40b29f03bf3ba32df58347974"}
+[2020-01-20 15:52:37,491] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:41 , > > > > >?????params???
+[2020-01-20 15:52:37,491] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:42 , > > > > >?????body???{"adduser":"qzcsbj","data":{"username":"test133","realname":"test133","sex":"1","phone":"13800000133"}}
+[2020-01-20 15:52:37,491] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:43 , > > > > >????????assertRes???$..code=9550;
+[2020-01-20 15:52:38,308] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:68 , ?????????????{
+  "code": 9310, 
+  "msg": "??????????"
+}
+
+[2020-01-20 15:52:38,314] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:30 , ==========???????????????case_7??test_user_del_ok??==========
+[2020-01-20 15:52:38,314] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:37 , > > > > >?????method???post
+[2020-01-20 15:52:38,314] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:38 , > > > > >?????url???http://127.0.0.1:9999/del_user
+[2020-01-20 15:52:38,314] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:39 , > > > > >?????headers???{"content-type": "application/json"}
+[2020-01-20 15:52:38,315] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:40 , > > > > >?????cookies???
+[2020-01-20 15:52:38,315] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:41 , > > > > >?????params???
+[2020-01-20 15:52:38,315] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:42 , > > > > >?????body???{"adduser":"qzcsbj", "token":"476855f40b29f03bf3ba32df58347974", "username":"None"}
+[2020-01-20 15:52:38,315] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:43 , > > > > >????????assertRes???$..code=9600;$..msg=??????
+[2020-01-20 15:52:39,225] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:68 , ?????????????{
+  "code": 9601, 
+  "msg": "?????????"
+}
+
+[2020-01-20 15:52:39,226] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:77 , ?????????fail
+
+
+[2020-01-20 15:53:57,565] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:30 , ==========???????????????case_1??test_user_login_ok??==========
+[2020-01-20 15:53:57,565] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:37 , > > > > >?????method???post
+[2020-01-20 15:53:57,566] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:38 , > > > > >?????url???http://127.0.0.1:9999/login2
+[2020-01-20 15:53:57,566] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:39 , > > > > >?????headers???{"content-type": "application/json"}
+[2020-01-20 15:53:57,566] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:40 , > > > > >?????cookies???
+[2020-01-20 15:53:57,566] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:41 , > > > > >?????params???
+[2020-01-20 15:53:57,566] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:42 , > > > > >?????body???{"username": "qzcsbj", "password": "123456"}
+[2020-01-20 15:53:57,566] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:43 , > > > > >????????assertRes???$..code=9420;
+[2020-01-20 15:53:58,200] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:68 , ?????????????{
+  "code": 9420, 
+  "msg": "???qzcsbj????????", 
+  "token": "080f7abe96e3e5dd246a3db5683bf142"
+}
+
+[2020-01-20 15:53:58,204] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:77 , ?????????pass
+
+
+[2020-01-20 15:53:58,206] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:30 , ==========???????????????case_4??test_user_add_ok??==========
+[2020-01-20 15:53:58,206] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:37 , > > > > >?????method???post
+[2020-01-20 15:53:58,206] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:38 , > > > > >?????url???http://127.0.0.1:9999/add_user3
+[2020-01-20 15:53:58,207] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:39 , > > > > >?????headers???{"content-type": "application/json"}
+[2020-01-20 15:53:58,207] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:40 , > > > > >?????cookies???{"token":"080f7abe96e3e5dd246a3db5683bf142"}
+[2020-01-20 15:53:58,207] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:41 , > > > > >?????params???
+[2020-01-20 15:53:58,207] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:42 , > > > > >?????body???{"adduser":"qzcsbj","data":{"username":"test133","realname":"test133","sex":"1","phone":"13800000133"}}
+[2020-01-20 15:53:58,207] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:43 , > > > > >????????assertRes???$..code=9550;
+[2020-01-20 15:53:59,172] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:68 , ?????????????{
+  "code": 9310, 
+  "msg": "??????????"
+}
+
+[2020-01-20 15:53:59,174] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:30 , ==========???????????????case_7??test_user_del_ok??==========
+[2020-01-20 15:53:59,174] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:37 , > > > > >?????method???post
+[2020-01-20 15:53:59,174] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:38 , > > > > >?????url???http://127.0.0.1:9999/del_user
+[2020-01-20 15:53:59,174] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:39 , > > > > >?????headers???{"content-type": "application/json"}
+[2020-01-20 15:53:59,175] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:40 , > > > > >?????cookies???
+[2020-01-20 15:53:59,175] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:41 , > > > > >?????params???
+[2020-01-20 15:53:59,175] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:42 , > > > > >?????body???{"adduser":"qzcsbj", "token":"080f7abe96e3e5dd246a3db5683bf142", "username":"None"}
+[2020-01-20 15:53:59,175] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:43 , > > > > >????????assertRes???$..code=9600;$..msg=??????
+[2020-01-20 15:54:00,262] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:68 , ?????????????{
+  "code": 9601, 
+  "msg": "?????????"
+}
+
+[2020-01-20 15:54:00,263] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:77 , ?????????fail
+
+
+[2020-01-20 15:55:55,684] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:30 , ==========???????????????case_1??test_user_login_ok??==========
+[2020-01-20 15:55:55,685] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:37 , > > > > >?????method???post
+[2020-01-20 15:55:55,685] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:38 , > > > > >?????url???http://127.0.0.1:9999/login2
+[2020-01-20 15:55:55,685] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:39 , > > > > >?????headers???{"content-type": "application/json"}
+[2020-01-20 15:55:55,685] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:40 , > > > > >?????cookies???
+[2020-01-20 15:55:55,685] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:41 , > > > > >?????params???
+[2020-01-20 15:55:55,685] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:42 , > > > > >?????body???{"username": "qzcsbj", "password": "123456"}
+[2020-01-20 15:55:55,685] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:43 , > > > > >????????assertRes???$..code=9420;
+[2020-01-20 15:55:56,504] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:68 , ?????????????{
+  "code": 9420, 
+  "msg": "???qzcsbj????????", 
+  "token": "4f690f08a5e5ef728ba597309d8729ec"
+}
+
+[2020-01-20 15:55:56,507] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:77 , ?????????pass
+
+
+[2020-01-20 15:55:56,509] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:30 , ==========???????????????case_4??test_user_add_ok??==========
+[2020-01-20 15:55:56,509] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:37 , > > > > >?????method???post
+[2020-01-20 15:55:56,509] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:38 , > > > > >?????url???http://127.0.0.1:9999/add_user3
+[2020-01-20 15:55:56,509] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:39 , > > > > >?????headers???{"content-type": "application/json"}
+[2020-01-20 15:55:56,509] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:40 , > > > > >?????cookies???{"token":"4f690f08a5e5ef728ba597309d8729ec"}
+[2020-01-20 15:55:56,509] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:41 , > > > > >?????params???
+[2020-01-20 15:55:56,510] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:42 , > > > > >?????body???{"adduser":"qzcsbj","data":{"username":"test133","realname":"test133","sex":"1","phone":"13800000133"}}
+[2020-01-20 15:55:56,510] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:43 , > > > > >????????assertRes???$..code=9550;
+[2020-01-20 15:55:58,367] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:68 , ?????????????{
+  "code": 9550, 
+  "msg": "?????????", 
+  "username": "test133"
+}
+
+[2020-01-20 15:55:58,369] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:77 , ?????????pass
+
+
+[2020-01-20 15:55:58,370] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:30 , ==========???????????????case_7??test_user_del_ok??==========
+[2020-01-20 15:55:58,371] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:37 , > > > > >?????method???post
+[2020-01-20 15:55:58,371] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:38 , > > > > >?????url???http://127.0.0.1:9999/del_user
+[2020-01-20 15:55:58,371] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:39 , > > > > >?????headers???{"content-type": "application/json"}
+[2020-01-20 15:55:58,371] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:40 , > > > > >?????cookies???
+[2020-01-20 15:55:58,371] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:41 , > > > > >?????params???
+[2020-01-20 15:55:58,371] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:42 , > > > > >?????body???{"adduser":"qzcsbj", "token":"4f690f08a5e5ef728ba597309d8729ec", "username":"test133"}
+[2020-01-20 15:55:58,371] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:43 , > > > > >????????assertRes???$..code=9600;$..msg=??????
+[2020-01-20 15:56:00,456] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:68 , ?????????????{
+  "code": 9600, 
+  "msg": "??????"
+}
+
+[2020-01-20 15:56:00,458] [DEBUG] [E:\my_rf\test_case\test_cases.py : test_my_request_:77 , ?????????pass
+
+
+[2020-06-05 15:35:48,623] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:30 , ==========?????????case_1?test_user_profile_ok?==========
+[2020-06-05 15:35:48,623] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:37 , > > > > >???method??GET
+[2020-06-05 15:35:48,623] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:38 , > > > > >???url??https://sandboximb8.bixin.com/messenger/api/v3/profile.setMe
+[2020-06-05 15:35:48,623] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:39 , > > > > >???headers??{
+            'Cookie': 'bixin_session_id=lh7zxnvqy8kaznpnv4woscdakfwx4jvi; djlanguage=zh-Hans; csrftoken=evJpwFREhPlxZErPw2D9oFAOOpQZ1irCyOesj1emuPm8bjPyScMt4MIlSe6oHsFx; SERVERID=s1; _ga=GA1.2.78407790.1591253180; browser=FiHlO9cRW_D1tzwafBlwug',
+            'Content-Type': 'application/json',
+            'X-Access-Token': '8924e7677e0849978413640c3c8182eb'
+        }
+[2020-06-05 15:35:48,623] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:40 , > > > > >???cookies??
+[2020-06-05 15:35:48,624] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:41 , > > > > >???params??
+[2020-06-05 15:35:48,624] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:42 , > > > > >???body??
+[2020-06-05 15:35:48,624] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:43 , > > > > >????assertRes??$..ok=ture;
+[2020-06-05 15:35:48,991] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:58 , ??????????{"ok": false, "error": "\u767b\u5f55\u4fe1\u606f\u5df2\u8fc7\u671f\uff0c\u8bf7\u91cd\u65b0\u767b\u5f55"}
+[2020-06-05 15:35:48,993] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:66 , ??????fail
+
+
+[2020-06-05 15:35:49,003] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:30 , ==========???????????==========
+[2020-06-05 15:35:49,004] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:37 , > > > > >???method??
+[2020-06-05 15:35:49,004] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:38 , > > > > >???url??
+[2020-06-05 15:35:49,004] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:39 , > > > > >???headers??
+[2020-06-05 15:35:49,004] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:40 , > > > > >???cookies??
+[2020-06-05 15:35:49,004] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:41 , > > > > >???params??
+[2020-06-05 15:35:49,004] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:42 , > > > > >???body??
+[2020-06-05 15:35:49,005] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:43 , > > > > >????assertRes??
+[2020-06-05 15:35:49,005] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:30 , ==========???????????==========
+[2020-06-05 15:35:49,005] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:37 , > > > > >???method??
+[2020-06-05 15:35:49,005] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:38 , > > > > >???url??
+[2020-06-05 15:35:49,005] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:39 , > > > > >???headers??
+[2020-06-05 15:35:49,005] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:40 , > > > > >???cookies??
+[2020-06-05 15:35:49,005] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:41 , > > > > >???params??
+[2020-06-05 15:35:49,005] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:42 , > > > > >???body??
+[2020-06-05 15:35:49,005] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:43 , > > > > >????assertRes??
+[2020-06-05 15:35:49,006] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:30 , ==========???????????==========
+[2020-06-05 15:35:49,006] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:37 , > > > > >???method??
+[2020-06-05 15:35:49,006] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:38 , > > > > >???url??
+[2020-06-05 15:35:49,006] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:39 , > > > > >???headers??
+[2020-06-05 15:35:49,006] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:40 , > > > > >???cookies??
+[2020-06-05 15:35:49,006] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:41 , > > > > >???params??
+[2020-06-05 15:35:49,006] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:42 , > > > > >???body??
+[2020-06-05 15:35:49,006] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:43 , > > > > >????assertRes??
+[2020-06-05 15:40:26,910] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:30 , ==========?????????case_1?test_user_profile_ok?==========
+[2020-06-05 15:40:26,911] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:37 , > > > > >???method??GET
+[2020-06-05 15:40:26,911] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:38 , > > > > >???url??https://sandboximb8.bixin.com/messenger/api/v3/profile.setMe
+[2020-06-05 15:40:26,911] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:39 , > > > > >???headers??{
+            'Cookie': 'bixin_session_id=lh7zxnvqy8kaznpnv4woscdakfwx4jvi; djlanguage=zh-Hans; csrftoken=evJpwFREhPlxZErPw2D9oFAOOpQZ1irCyOesj1emuPm8bjPyScMt4MIlSe6oHsFx; SERVERID=s1; _ga=GA1.2.78407790.1591253180; browser=FiHlO9cRW_D1tzwafBlwug',
+            'Content-Type': 'application/json',
+            'X-Access-Token': '8924e7677e0849978413640c3c8182eb'
+        }
+[2020-06-05 15:40:26,911] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:40 , > > > > >???cookies??
+[2020-06-05 15:40:26,911] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:41 , > > > > >???params??
+[2020-06-05 15:40:26,911] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:42 , > > > > >???body??
+[2020-06-05 15:40:26,911] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:43 , > > > > >????assertRes??$..ok=ture;
+[2020-06-05 15:40:27,267] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:58 , ??????????{"ok": false, "error": "\u767b\u5f55\u4fe1\u606f\u5df2\u8fc7\u671f\uff0c\u8bf7\u91cd\u65b0\u767b\u5f55"}
+[2020-06-05 15:40:27,274] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:66 , ??????fail
+
+
+[2020-06-05 15:40:27,282] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:30 , ==========???????????==========
+[2020-06-05 15:40:27,282] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:37 , > > > > >???method??
+[2020-06-05 15:40:27,282] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:38 , > > > > >???url??
+[2020-06-05 15:40:27,283] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:39 , > > > > >???headers??
+[2020-06-05 15:40:27,283] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:40 , > > > > >???cookies??
+[2020-06-05 15:40:27,283] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:41 , > > > > >???params??
+[2020-06-05 15:40:27,283] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:42 , > > > > >???body??
+[2020-06-05 15:40:27,283] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:43 , > > > > >????assertRes??
+[2020-06-05 15:40:27,283] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:30 , ==========???????????==========
+[2020-06-05 15:40:27,283] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:37 , > > > > >???method??
+[2020-06-05 15:40:27,283] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:38 , > > > > >???url??
+[2020-06-05 15:40:27,283] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:39 , > > > > >???headers??
+[2020-06-05 15:40:27,284] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:40 , > > > > >???cookies??
+[2020-06-05 15:40:27,284] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:41 , > > > > >???params??
+[2020-06-05 15:40:27,284] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:42 , > > > > >???body??
+[2020-06-05 15:40:27,284] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:43 , > > > > >????assertRes??
+[2020-06-05 15:40:27,284] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:30 , ==========???????????==========
+[2020-06-05 15:40:27,284] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:37 , > > > > >???method??
+[2020-06-05 15:40:27,284] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:38 , > > > > >???url??
+[2020-06-05 15:40:27,284] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:39 , > > > > >???headers??
+[2020-06-05 15:40:27,284] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:40 , > > > > >???cookies??
+[2020-06-05 15:40:27,284] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:41 , > > > > >???params??
+[2020-06-05 15:40:27,284] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:42 , > > > > >???body??
+[2020-06-05 15:40:27,285] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:43 , > > > > >????assertRes??
+[2020-06-05 15:41:53,323] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:30 , ==========?????????case_1?test_user_profile_ok?==========
+[2020-06-05 15:41:53,324] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:37 , > > > > >???method??GET
+[2020-06-05 15:41:53,324] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:38 , > > > > >???url??https://sandboximb8.bixin.com/messenger/api/v3/profile.setMe
+[2020-06-05 15:41:53,325] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:39 , > > > > >???headers??{"Cookie":"bixin_session_id=lh7zxnvqy8kaznpnv4woscdakfwx4jvi; djlanguage=zh-Hans;csrftoken=evJpwFREhPlxZErPw2D9oFAOOpQZ1irCyOesj1emuPm8bjPyScMt4MIlSe6oHsFx;SERVERID=s1;_ga=GA1.2.78407790.1591253180;browser=FiHlO9cRW_D1tzwafBlwug","Content-Type":"application/json","X-Access-Token":"8924e7677e0849978413640c3c8182eb"}
+[2020-06-05 15:41:53,325] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:40 , > > > > >???cookies??
+[2020-06-05 15:41:53,325] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:41 , > > > > >???params??
+[2020-06-05 15:41:53,325] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:42 , > > > > >???body??
+[2020-06-05 15:41:53,325] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:43 , > > > > >????assertRes??$..ok=ture;
+[2020-06-05 15:41:53,765] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:58 , ??????????{"ok": false, "error": "\u767b\u5f55\u4fe1\u606f\u5df2\u8fc7\u671f\uff0c\u8bf7\u91cd\u65b0\u767b\u5f55"}
+[2020-06-05 15:41:53,766] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:66 , ??????fail
+
+
+[2020-06-05 15:41:53,772] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:30 , ==========???????????==========
+[2020-06-05 15:41:53,772] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:37 , > > > > >???method??
+[2020-06-05 15:41:53,773] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:38 , > > > > >???url??
+[2020-06-05 15:41:53,773] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:39 , > > > > >???headers??
+[2020-06-05 15:41:53,773] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:40 , > > > > >???cookies??
+[2020-06-05 15:41:53,773] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:41 , > > > > >???params??
+[2020-06-05 15:41:53,773] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:42 , > > > > >???body??
+[2020-06-05 15:41:53,773] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:43 , > > > > >????assertRes??
+[2020-06-05 15:41:53,773] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:30 , ==========???????????==========
+[2020-06-05 15:41:53,773] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:37 , > > > > >???method??
+[2020-06-05 15:41:53,773] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:38 , > > > > >???url??
+[2020-06-05 15:41:53,774] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:39 , > > > > >???headers??
+[2020-06-05 15:41:53,774] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:40 , > > > > >???cookies??
+[2020-06-05 15:41:53,774] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:41 , > > > > >???params??
+[2020-06-05 15:41:53,774] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:42 , > > > > >???body??
+[2020-06-05 15:41:53,774] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:43 , > > > > >????assertRes??
+[2020-06-05 15:41:53,774] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:30 , ==========???????????==========
+[2020-06-05 15:41:53,774] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:37 , > > > > >???method??
+[2020-06-05 15:41:53,774] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:38 , > > > > >???url??
+[2020-06-05 15:41:53,774] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:39 , > > > > >???headers??
+[2020-06-05 15:41:53,774] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:40 , > > > > >???cookies??
+[2020-06-05 15:41:53,775] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:41 , > > > > >???params??
+[2020-06-05 15:41:53,775] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:42 , > > > > >???body??
+[2020-06-05 15:41:53,775] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:43 , > > > > >????assertRes??
+[2020-06-05 15:49:26,528] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:30 , ==========?????????case_1?test_user_profile_ok?==========
+[2020-06-05 15:49:26,529] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:37 , > > > > >???method??GET
+[2020-06-05 15:49:26,529] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:38 , > > > > >???url??https://sandboximb8.bixin.com/messenger/api/v3/profile.setMe
+[2020-06-05 15:49:26,529] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:39 , > > > > >???headers??{"Cookie":"bixin_session_id=lh7zxnvqy8kaznpnv4woscdakfwx4jvi; djlanguage=zh-Hans;csrftoken=evJpwFREhPlxZErPw2D9oFAOOpQZ1irCyOesj1emuPm8bjPyScMt4MIlSe6oHsFx;SERVERID=s1;_ga=GA1.2.78407790.1591253180;browser=FiHlO9cRW_D1tzwafBlwug","Content-Type":"application/json","X-Access-Token":"8924e7677e0849978413640c3c8182eb"}
+[2020-06-05 15:49:26,529] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:40 , > > > > >???cookies??
+[2020-06-05 15:49:26,529] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:41 , > > > > >???params??
+[2020-06-05 15:49:26,529] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:42 , > > > > >???body??
+[2020-06-05 15:49:26,529] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:43 , > > > > >????assertRes??$..ok=ture;
+[2020-06-05 15:49:26,891] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:58 , ??????????{"ok": false, "error": "\u767b\u5f55\u4fe1\u606f\u5df2\u8fc7\u671f\uff0c\u8bf7\u91cd\u65b0\u767b\u5f55"}
+[2020-06-05 15:49:26,892] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:66 , ??????fail
+
+
+[2020-06-05 15:49:26,904] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:30 , ==========???????????==========
+[2020-06-05 15:49:26,904] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:37 , > > > > >???method??
+[2020-06-05 15:49:26,904] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:38 , > > > > >???url??
+[2020-06-05 15:49:26,904] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:39 , > > > > >???headers??
+[2020-06-05 15:49:26,904] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:40 , > > > > >???cookies??
+[2020-06-05 15:49:26,904] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:41 , > > > > >???params??
+[2020-06-05 15:49:26,905] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:42 , > > > > >???body??
+[2020-06-05 15:49:26,905] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:43 , > > > > >????assertRes??
+[2020-06-05 15:49:26,905] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:30 , ==========???????????==========
+[2020-06-05 15:49:26,905] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:37 , > > > > >???method??
+[2020-06-05 15:49:26,905] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:38 , > > > > >???url??
+[2020-06-05 15:49:26,905] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:39 , > > > > >???headers??
+[2020-06-05 15:49:26,905] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:40 , > > > > >???cookies??
+[2020-06-05 15:49:26,905] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:41 , > > > > >???params??
+[2020-06-05 15:49:26,906] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:42 , > > > > >???body??
+[2020-06-05 15:49:26,906] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:43 , > > > > >????assertRes??
+[2020-06-05 15:49:26,906] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:30 , ==========???????????==========
+[2020-06-05 15:49:26,906] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:37 , > > > > >???method??
+[2020-06-05 15:49:26,906] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:38 , > > > > >???url??
+[2020-06-05 15:49:26,906] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:39 , > > > > >???headers??
+[2020-06-05 15:49:26,906] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:40 , > > > > >???cookies??
+[2020-06-05 15:49:26,906] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:41 , > > > > >???params??
+[2020-06-05 15:49:26,907] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:42 , > > > > >???body??
+[2020-06-05 15:49:26,907] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:43 , > > > > >????assertRes??
+[2020-06-05 16:00:00,058] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:30 , ==========?????????case_1?test_user_profile_ok?==========
+[2020-06-05 16:00:00,058] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:37 , > > > > >???method??GET
+[2020-06-05 16:00:00,058] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:38 , > > > > >???url??https://sandboximb8.bixin.com/messenger/api/v3/profile.setMe
+[2020-06-05 16:00:00,059] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:39 , > > > > >???headers??{"X-Access-Token": "8924e7677e0849978413640c3c8182eb", "Content-Type": "application/json"}
+[2020-06-05 16:00:00,059] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:40 , > > > > >???cookies??
+[2020-06-05 16:00:00,059] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:41 , > > > > >???params??
+[2020-06-05 16:00:00,059] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:42 , > > > > >???body??
+[2020-06-05 16:00:00,059] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:43 , > > > > >????assertRes??$..ok=ture;
+[2020-06-05 16:00:00,413] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:58 , ??????????{"ok": false, "error": "Sign in timed out. Sign in again"}
+[2020-06-05 16:00:00,414] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:66 , ??????fail
+
+
+[2020-06-05 16:00:00,425] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:30 , ==========???????????==========
+[2020-06-05 16:00:00,425] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:37 , > > > > >???method??
+[2020-06-05 16:00:00,425] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:38 , > > > > >???url??
+[2020-06-05 16:00:00,425] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:39 , > > > > >???headers??
+[2020-06-05 16:00:00,425] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:40 , > > > > >???cookies??
+[2020-06-05 16:00:00,425] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:41 , > > > > >???params??
+[2020-06-05 16:00:00,425] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:42 , > > > > >???body??
+[2020-06-05 16:00:00,425] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:43 , > > > > >????assertRes??
+[2020-06-05 16:00:00,426] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:30 , ==========???????????==========
+[2020-06-05 16:00:00,426] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:37 , > > > > >???method??
+[2020-06-05 16:00:00,426] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:38 , > > > > >???url??
+[2020-06-05 16:00:00,426] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:39 , > > > > >???headers??
+[2020-06-05 16:00:00,426] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:40 , > > > > >???cookies??
+[2020-06-05 16:00:00,426] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:41 , > > > > >???params??
+[2020-06-05 16:00:00,426] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:42 , > > > > >???body??
+[2020-06-05 16:00:00,426] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:43 , > > > > >????assertRes??
+[2020-06-05 16:00:00,427] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:30 , ==========???????????==========
+[2020-06-05 16:00:00,427] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:37 , > > > > >???method??
+[2020-06-05 16:00:00,427] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:38 , > > > > >???url??
+[2020-06-05 16:00:00,427] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:39 , > > > > >???headers??
+[2020-06-05 16:00:00,427] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:40 , > > > > >???cookies??
+[2020-06-05 16:00:00,427] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:41 , > > > > >???params??
+[2020-06-05 16:00:00,427] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:42 , > > > > >???body??
+[2020-06-05 16:00:00,427] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:43 , > > > > >????assertRes??
+[2020-06-05 16:00:44,625] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:30 , ==========?????????case_1?test_user_profile_ok?==========
+[2020-06-05 16:00:44,625] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:37 , > > > > >???method??GET
+[2020-06-05 16:00:44,625] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:38 , > > > > >???url??https://sandboximb8.bixin.com/messenger/api/v3/profile.setMe
+[2020-06-05 16:00:44,626] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:39 , > > > > >???headers??{"Cookie": "bixin_session_id=lh7zxnvqy8kaznpnv4woscdakfwx4jvi; djlanguage=zh-Hans; csrftoken=evJpwFREhPlxZErPw2D9oFAOOpQZ1irCyOesj1emuPm8bjPyScMt4MIlSe6oHsFx; SERVERID=s1; _ga=GA1.2.78407790.1591253180; browser=FiHlO9cRW_D1tzwafBlwug", "X-Access-Token": "8924e7677e0849978413640c3c8182eb", "Content-Type": "application/json"}
+[2020-06-05 16:00:44,626] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:40 , > > > > >???cookies??
+[2020-06-05 16:00:44,626] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:41 , > > > > >???params??
+[2020-06-05 16:00:44,626] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:42 , > > > > >???body??
+[2020-06-05 16:00:44,626] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:43 , > > > > >????assertRes??$..ok=ture;
+[2020-06-05 16:00:45,011] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:58 , ??????????{"ok": false, "error": "\u767b\u5f55\u4fe1\u606f\u5df2\u8fc7\u671f\uff0c\u8bf7\u91cd\u65b0\u767b\u5f55"}
+[2020-06-05 16:00:45,013] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:66 , ??????fail
+
+
+[2020-06-05 16:00:45,023] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:30 , ==========???????????==========
+[2020-06-05 16:00:45,023] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:37 , > > > > >???method??
+[2020-06-05 16:00:45,024] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:38 , > > > > >???url??
+[2020-06-05 16:00:45,024] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:39 , > > > > >???headers??
+[2020-06-05 16:00:45,024] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:40 , > > > > >???cookies??
+[2020-06-05 16:00:45,024] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:41 , > > > > >???params??
+[2020-06-05 16:00:45,024] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:42 , > > > > >???body??
+[2020-06-05 16:00:45,024] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:43 , > > > > >????assertRes??
+[2020-06-05 16:00:45,024] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:30 , ==========???????????==========
+[2020-06-05 16:00:45,024] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:37 , > > > > >???method??
+[2020-06-05 16:00:45,024] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:38 , > > > > >???url??
+[2020-06-05 16:00:45,024] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:39 , > > > > >???headers??
+[2020-06-05 16:00:45,025] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:40 , > > > > >???cookies??
+[2020-06-05 16:00:45,025] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:41 , > > > > >???params??
+[2020-06-05 16:00:45,025] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:42 , > > > > >???body??
+[2020-06-05 16:00:45,025] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:43 , > > > > >????assertRes??
+[2020-06-05 16:00:45,025] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:30 , ==========???????????==========
+[2020-06-05 16:00:45,025] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:37 , > > > > >???method??
+[2020-06-05 16:00:45,025] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:38 , > > > > >???url??
+[2020-06-05 16:00:45,025] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:39 , > > > > >???headers??
+[2020-06-05 16:00:45,025] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:40 , > > > > >???cookies??
+[2020-06-05 16:00:45,025] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:41 , > > > > >???params??
+[2020-06-05 16:00:45,026] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:42 , > > > > >???body??
+[2020-06-05 16:00:45,026] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:43 , > > > > >????assertRes??
+[2020-06-05 16:09:09,748] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:30 , ==========?????????case_1?test_user_profile_ok?==========
+[2020-06-05 16:09:09,748] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:37 , > > > > >???method??GET
+[2020-06-05 16:09:09,748] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:38 , > > > > >???url??https://sandboximb8.bixin.com/messenger/api/v3/profile.setMe
+[2020-06-05 16:09:09,748] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:39 , > > > > >???headers??{"Cookie": "bixin_session_id=lh7zxnvqy8kaznpnv4woscdakfwx4jvi; djlanguage=zh-Hans; csrftoken=evJpwFREhPlxZErPw2D9oFAOOpQZ1irCyOesj1emuPm8bjPyScMt4MIlSe6oHsFx; SERVERID=s1; _ga=GA1.2.78407790.1591253180; browser=FiHlO9cRW_D1tzwafBlwug", "X-Access-Token": "8924e7677e0849978413640c3c8182eb", "Content-Type": "application/json", "User-Agent": "bixin-ios/2020060101 (iPhone; iOS 13.3; Scale/3.00; com.bixin.bixininhouse; asdev; UUID/520FC540-2A53-48B8-9692-F75833B9F82C; Version/3.8.8; DeviceModel/iPhone9,2; SystemVersion/13.3)"}
+[2020-06-05 16:09:09,749] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:40 , > > > > >???cookies??
+[2020-06-05 16:09:09,749] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:41 , > > > > >???params??
+[2020-06-05 16:09:09,749] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:42 , > > > > >???body??
+[2020-06-05 16:09:09,749] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:43 , > > > > >????assertRes??$..ok=ture;
+[2020-06-05 16:09:10,237] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:58 , ??????????{"ok": true, "data": [{"limit": 0, "name_des": "\u5934\u50cf", "name": "avatar", "value": "https://prod.243096.com/upload/2019/10/14/04f2f01f113744c893aab83c3bb15507.png-thumb", "can_modify": true}, {"limit": 16, "name_des": "\u6635\u79f0", "name": "nickname", "value": "\u5c0f\u4e5d\u4e5d", "can_modify": true}, {"limit": 16, "name_des": "UID", "name": "username", "value": "xiaojiu01", "can_modify": false}, {"limit": 0, "name_des": "\u6027\u522b", "name": "gender", "value": "\u5973", "can_modify": false}]}
+[2020-06-05 16:09:10,238] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:66 , ??????fail
+
+
+[2020-06-05 16:09:10,245] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:30 , ==========???????????==========
+[2020-06-05 16:09:10,246] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:37 , > > > > >???method??
+[2020-06-05 16:09:10,246] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:38 , > > > > >???url??
+[2020-06-05 16:09:10,246] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:39 , > > > > >???headers??
+[2020-06-05 16:09:10,246] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:40 , > > > > >???cookies??
+[2020-06-05 16:09:10,246] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:41 , > > > > >???params??
+[2020-06-05 16:09:10,246] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:42 , > > > > >???body??
+[2020-06-05 16:09:10,246] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:43 , > > > > >????assertRes??
+[2020-06-05 16:09:10,246] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:30 , ==========???????????==========
+[2020-06-05 16:09:10,247] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:37 , > > > > >???method??
+[2020-06-05 16:09:10,247] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:38 , > > > > >???url??
+[2020-06-05 16:09:10,247] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:39 , > > > > >???headers??
+[2020-06-05 16:09:10,247] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:40 , > > > > >???cookies??
+[2020-06-05 16:09:10,247] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:41 , > > > > >???params??
+[2020-06-05 16:09:10,247] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:42 , > > > > >???body??
+[2020-06-05 16:09:10,247] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:43 , > > > > >????assertRes??
+[2020-06-05 16:09:10,247] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:30 , ==========???????????==========
+[2020-06-05 16:09:10,248] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:37 , > > > > >???method??
+[2020-06-05 16:09:10,248] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:38 , > > > > >???url??
+[2020-06-05 16:09:10,248] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:39 , > > > > >???headers??
+[2020-06-05 16:09:10,248] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:40 , > > > > >???cookies??
+[2020-06-05 16:09:10,248] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:41 , > > > > >???params??
+[2020-06-05 16:09:10,248] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:42 , > > > > >???body??
+[2020-06-05 16:09:10,248] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:43 , > > > > >????assertRes??
+[2020-06-05 16:20:02,542] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:30 , ==========?????????case_1?test_user_profile_ok?==========
+[2020-06-05 16:20:02,542] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:37 , > > > > >???method??GET
+[2020-06-05 16:20:02,542] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:38 , > > > > >???url??https://sandboximb8.bixin.com/messenger/api/v3/profile.setMe
+[2020-06-05 16:20:02,542] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:39 , > > > > >???headers??{"Cookie": "bixin_session_id=lh7zxnvqy8kaznpnv4woscdakfwx4jvi; djlanguage=zh-Hans; csrftoken=evJpwFREhPlxZErPw2D9oFAOOpQZ1irCyOesj1emuPm8bjPyScMt4MIlSe6oHsFx; SERVERID=s1; _ga=GA1.2.78407790.1591253180; browser=FiHlO9cRW_D1tzwafBlwug", "X-Access-Token": "8924e7677e0849978413640c3c8182eb", "Content-Type": "application/json", "User-Agent": "bixin-ios/2020060101 (iPhone; iOS 13.3; Scale/3.00; com.bixin.bixininhouse; asdev; UUID/520FC540-2A53-48B8-9692-F75833B9F82C; Version/3.8.8; DeviceModel/iPhone9,2; SystemVersion/13.3)"}
+[2020-06-05 16:20:02,543] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:40 , > > > > >???cookies??
+[2020-06-05 16:20:02,543] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:41 , > > > > >???params??
+[2020-06-05 16:20:02,543] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:42 , > > > > >???body??
+[2020-06-05 16:20:02,543] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:43 , > > > > >????assertRes??$..code=200;
+[2020-06-05 16:20:02,947] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:58 , ??????????{"ok": true, "data": [{"limit": 0, "name_des": "\u5934\u50cf", "name": "avatar", "value": "https://prod.243096.com/upload/2019/10/14/04f2f01f113744c893aab83c3bb15507.png-thumb", "can_modify": true}, {"limit": 16, "name_des": "\u6635\u79f0", "name": "nickname", "value": "\u5c0f\u4e5d\u4e5d", "can_modify": true}, {"limit": 16, "name_des": "UID", "name": "username", "value": "xiaojiu01", "can_modify": false}, {"limit": 0, "name_des": "\u6027\u522b", "name": "gender", "value": "\u5973", "can_modify": false}]}
+[2020-06-05 16:20:02,965] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:30 , ==========???????????==========
+[2020-06-05 16:20:02,965] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:37 , > > > > >???method??
+[2020-06-05 16:20:02,965] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:38 , > > > > >???url??
+[2020-06-05 16:20:02,966] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:39 , > > > > >???headers??
+[2020-06-05 16:20:02,966] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:40 , > > > > >???cookies??
+[2020-06-05 16:20:02,966] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:41 , > > > > >???params??
+[2020-06-05 16:20:02,966] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:42 , > > > > >???body??
+[2020-06-05 16:20:02,966] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:43 , > > > > >????assertRes??
+[2020-06-05 16:20:02,966] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:30 , ==========???????????==========
+[2020-06-05 16:20:02,967] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:37 , > > > > >???method??
+[2020-06-05 16:20:02,967] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:38 , > > > > >???url??
+[2020-06-05 16:20:02,967] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:39 , > > > > >???headers??
+[2020-06-05 16:20:02,967] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:40 , > > > > >???cookies??
+[2020-06-05 16:20:02,967] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:41 , > > > > >???params??
+[2020-06-05 16:20:02,967] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:42 , > > > > >???body??
+[2020-06-05 16:20:02,967] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:43 , > > > > >????assertRes??
+[2020-06-05 16:20:02,968] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:30 , ==========???????????==========
+[2020-06-05 16:20:02,968] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:37 , > > > > >???method??
+[2020-06-05 16:20:02,968] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:38 , > > > > >???url??
+[2020-06-05 16:20:02,968] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:39 , > > > > >???headers??
+[2020-06-05 16:20:02,968] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:40 , > > > > >???cookies??
+[2020-06-05 16:20:02,968] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:41 , > > > > >???params??
+[2020-06-05 16:20:02,968] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:42 , > > > > >???body??
+[2020-06-05 16:20:02,968] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:43 , > > > > >????assertRes??
+[2020-06-05 16:25:51,901] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:30 , ==========?????????case_1?test_user_profile_ok?==========
+[2020-06-05 16:25:51,902] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:37 , > > > > >???method??GET
+[2020-06-05 16:25:51,902] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:38 , > > > > >???url??https://sandboximb8.bixin.com/messenger/api/v3/profile.setMe
+[2020-06-05 16:25:51,902] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:39 , > > > > >???headers??{"Cookie": "bixin_session_id=lh7zxnvqy8kaznpnv4woscdakfwx4jvi; djlanguage=zh-Hans; csrftoken=evJpwFREhPlxZErPw2D9oFAOOpQZ1irCyOesj1emuPm8bjPyScMt4MIlSe6oHsFx; SERVERID=s1; _ga=GA1.2.78407790.1591253180; browser=FiHlO9cRW_D1tzwafBlwug", "X-Access-Token": "8924e7677e0849978413640c3c8182eb", "Content-Type": "application/json", "User-Agent": "bixin-ios/2020060101 (iPhone; iOS 13.3; Scale/3.00; com.bixin.bixininhouse; asdev; UUID/520FC540-2A53-48B8-9692-F75833B9F82C; Version/3.8.8; DeviceModel/iPhone9,2; SystemVersion/13.3)"}
+[2020-06-05 16:25:51,902] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:40 , > > > > >???cookies??
+[2020-06-05 16:25:51,902] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:41 , > > > > >???params??
+[2020-06-05 16:25:51,902] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:42 , > > > > >???body??
+[2020-06-05 16:25:51,902] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:43 , > > > > >????assertRes??$..ok=true;
+[2020-06-05 16:25:52,338] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:58 , ??????????{"ok": true, "data": [{"limit": 0, "name_des": "\u5934\u50cf", "name": "avatar", "value": "https://prod.243096.com/upload/2019/10/14/04f2f01f113744c893aab83c3bb15507.png-thumb", "can_modify": true}, {"limit": 16, "name_des": "\u6635\u79f0", "name": "nickname", "value": "\u5c0f\u4e5d\u4e5d", "can_modify": true}, {"limit": 16, "name_des": "UID", "name": "username", "value": "xiaojiu01", "can_modify": false}, {"limit": 0, "name_des": "\u6027\u522b", "name": "gender", "value": "\u5973", "can_modify": false}]}
+[2020-06-05 16:25:52,340] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:66 , ??????fail
+
+
+[2020-06-05 16:25:52,351] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:30 , ==========???????????==========
+[2020-06-05 16:25:52,351] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:37 , > > > > >???method??
+[2020-06-05 16:25:52,351] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:38 , > > > > >???url??
+[2020-06-05 16:25:52,351] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:39 , > > > > >???headers??
+[2020-06-05 16:25:52,351] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:40 , > > > > >???cookies??
+[2020-06-05 16:25:52,351] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:41 , > > > > >???params??
+[2020-06-05 16:25:52,351] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:42 , > > > > >???body??
+[2020-06-05 16:25:52,351] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:43 , > > > > >????assertRes??
+[2020-06-05 16:25:52,352] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:30 , ==========???????????==========
+[2020-06-05 16:25:52,352] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:37 , > > > > >???method??
+[2020-06-05 16:25:52,352] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:38 , > > > > >???url??
+[2020-06-05 16:25:52,352] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:39 , > > > > >???headers??
+[2020-06-05 16:25:52,352] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:40 , > > > > >???cookies??
+[2020-06-05 16:25:52,352] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:41 , > > > > >???params??
+[2020-06-05 16:25:52,352] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:42 , > > > > >???body??
+[2020-06-05 16:25:52,352] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:43 , > > > > >????assertRes??
+[2020-06-05 16:25:52,353] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:30 , ==========???????????==========
+[2020-06-05 16:25:52,353] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:37 , > > > > >???method??
+[2020-06-05 16:25:52,353] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:38 , > > > > >???url??
+[2020-06-05 16:25:52,353] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:39 , > > > > >???headers??
+[2020-06-05 16:25:52,353] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:40 , > > > > >???cookies??
+[2020-06-05 16:25:52,353] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:41 , > > > > >???params??
+[2020-06-05 16:25:52,353] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:42 , > > > > >???body??
+[2020-06-05 16:25:52,353] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:43 , > > > > >????assertRes??
+[2020-06-05 16:32:03,634] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:30 , ==========【当前执行用例是：case_1：test_user_profile_ok】==========
+[2020-06-05 16:32:03,635] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:37 , > > > > >请求的method是：GET
+[2020-06-05 16:32:03,635] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:38 , > > > > >请求的url是：https://sandboximb8.bixin.com/messenger/api/v3/profile.setMe
+[2020-06-05 16:32:03,635] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:39 , > > > > >请求的headers是：{"Cookie": "bixin_session_id=lh7zxnvqy8kaznpnv4woscdakfwx4jvi; djlanguage=zh-Hans; csrftoken=evJpwFREhPlxZErPw2D9oFAOOpQZ1irCyOesj1emuPm8bjPyScMt4MIlSe6oHsFx; SERVERID=s1; _ga=GA1.2.78407790.1591253180; browser=FiHlO9cRW_D1tzwafBlwug", "X-Access-Token": "8924e7677e0849978413640c3c8182eb", "Content-Type": "application/json", "User-Agent": "bixin-ios/2020060101 (iPhone; iOS 13.3; Scale/3.00; com.bixin.bixininhouse; asdev; UUID/520FC540-2A53-48B8-9692-F75833B9F82C; Version/3.8.8; DeviceModel/iPhone9,2; SystemVersion/13.3)"}
+[2020-06-05 16:32:03,635] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:40 , > > > > >请求的cookies是：
+[2020-06-05 16:32:03,635] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:41 , > > > > >请求的params是：
+[2020-06-05 16:32:03,635] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:42 , > > > > >请求的body是：
+[2020-06-05 16:32:03,635] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:43 , > > > > >断言内容assertRes是：$..ok=true;
+[2020-06-05 16:32:04,028] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:58 , 执行请求后，结果是：{"ok": true, "data": [{"limit": 0, "name_des": "\u5934\u50cf", "name": "avatar", "value": "https://prod.243096.com/upload/2019/10/14/04f2f01f113744c893aab83c3bb15507.png-thumb", "can_modify": true}, {"limit": 16, "name_des": "\u6635\u79f0", "name": "nickname", "value": "\u5c0f\u4e5d\u4e5d", "can_modify": true}, {"limit": 16, "name_des": "UID", "name": "username", "value": "xiaojiu01", "can_modify": false}, {"limit": 0, "name_des": "\u6027\u522b", "name": "gender", "value": "\u5973", "can_modify": false}]}
+[2020-06-05 16:32:04,029] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:66 , 断言结果是：fail
+
+
+[2020-06-05 16:32:04,040] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:30 , ==========【当前执行用例是：：】==========
+[2020-06-05 16:32:04,040] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:37 , > > > > >请求的method是：
+[2020-06-05 16:32:04,040] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:38 , > > > > >请求的url是：
+[2020-06-05 16:32:04,040] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:39 , > > > > >请求的headers是：
+[2020-06-05 16:32:04,040] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:40 , > > > > >请求的cookies是：
+[2020-06-05 16:32:04,040] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:41 , > > > > >请求的params是：
+[2020-06-05 16:32:04,040] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:42 , > > > > >请求的body是：
+[2020-06-05 16:32:04,040] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:43 , > > > > >断言内容assertRes是：
+[2020-06-05 16:32:04,041] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:30 , ==========【当前执行用例是：：】==========
+[2020-06-05 16:32:04,041] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:37 , > > > > >请求的method是：
+[2020-06-05 16:32:04,041] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:38 , > > > > >请求的url是：
+[2020-06-05 16:32:04,041] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:39 , > > > > >请求的headers是：
+[2020-06-05 16:32:04,041] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:40 , > > > > >请求的cookies是：
+[2020-06-05 16:32:04,041] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:41 , > > > > >请求的params是：
+[2020-06-05 16:32:04,041] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:42 , > > > > >请求的body是：
+[2020-06-05 16:32:04,041] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:43 , > > > > >断言内容assertRes是：
+[2020-06-05 16:32:04,042] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:30 , ==========【当前执行用例是：：】==========
+[2020-06-05 16:32:04,042] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:37 , > > > > >请求的method是：
+[2020-06-05 16:32:04,042] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:38 , > > > > >请求的url是：
+[2020-06-05 16:32:04,042] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:39 , > > > > >请求的headers是：
+[2020-06-05 16:32:04,042] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:40 , > > > > >请求的cookies是：
+[2020-06-05 16:32:04,042] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:41 , > > > > >请求的params是：
+[2020-06-05 16:32:04,042] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:42 , > > > > >请求的body是：
+[2020-06-05 16:32:04,042] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:43 , > > > > >断言内容assertRes是：
+[2020-06-05 16:41:39,585] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:30 , ==========【当前执行用例是：case_1：test_user_profile_ok】==========
+[2020-06-05 16:41:39,585] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:37 , > > > > >请求的method是：GET
+[2020-06-05 16:41:39,586] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:38 , > > > > >请求的url是：https://sandboximb8.bixin.com/messenger/api/v3/profile.setMe
+[2020-06-05 16:41:39,586] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:39 , > > > > >请求的headers是：{"Cookie": "bixin_session_id=lh7zxnvqy8kaznpnv4woscdakfwx4jvi; djlanguage=zh-Hans; csrftoken=evJpwFREhPlxZErPw2D9oFAOOpQZ1irCyOesj1emuPm8bjPyScMt4MIlSe6oHsFx; SERVERID=s1; _ga=GA1.2.78407790.1591253180; browser=FiHlO9cRW_D1tzwafBlwug", "X-Access-Token": "8924e7677e0849978413640c3c8182eb", "Content-Type": "application/json", "User-Agent": "bixin-ios/2020060101 (iPhone; iOS 13.3; Scale/3.00; com.bixin.bixininhouse; asdev; UUID/520FC540-2A53-48B8-9692-F75833B9F82C; Version/3.8.8; DeviceModel/iPhone9,2; SystemVersion/13.3)"}
+[2020-06-05 16:41:39,586] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:40 , > > > > >请求的cookies是：
+[2020-06-05 16:41:39,586] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:41 , > > > > >请求的params是：
+[2020-06-05 16:41:39,586] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:42 , > > > > >请求的body是：
+[2020-06-05 16:41:39,586] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:43 , > > > > >断言内容assertRes是：$ok=true;
+[2020-06-05 16:41:40,168] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:58 , 执行请求后，结果是：{"ok": true, "data": [{"limit": 0, "name_des": "\u5934\u50cf", "name": "avatar", "value": "https://prod.243096.com/upload/2019/10/14/04f2f01f113744c893aab83c3bb15507.png-thumb", "can_modify": true}, {"limit": 16, "name_des": "\u6635\u79f0", "name": "nickname", "value": "\u5c0f\u4e5d\u4e5d", "can_modify": true}, {"limit": 16, "name_des": "UID", "name": "username", "value": "xiaojiu01", "can_modify": false}, {"limit": 0, "name_des": "\u6027\u522b", "name": "gender", "value": "\u5973", "can_modify": false}]}
+[2020-06-05 16:41:40,183] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:30 , ==========【当前执行用例是：：】==========
+[2020-06-05 16:41:40,183] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:37 , > > > > >请求的method是：
+[2020-06-05 16:41:40,183] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:38 , > > > > >请求的url是：
+[2020-06-05 16:41:40,183] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:39 , > > > > >请求的headers是：
+[2020-06-05 16:41:40,183] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:40 , > > > > >请求的cookies是：
+[2020-06-05 16:41:40,183] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:41 , > > > > >请求的params是：
+[2020-06-05 16:41:40,184] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:42 , > > > > >请求的body是：
+[2020-06-05 16:41:40,184] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:43 , > > > > >断言内容assertRes是：
+[2020-06-05 16:41:40,184] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:30 , ==========【当前执行用例是：：】==========
+[2020-06-05 16:41:40,184] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:37 , > > > > >请求的method是：
+[2020-06-05 16:41:40,184] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:38 , > > > > >请求的url是：
+[2020-06-05 16:41:40,184] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:39 , > > > > >请求的headers是：
+[2020-06-05 16:41:40,184] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:40 , > > > > >请求的cookies是：
+[2020-06-05 16:41:40,185] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:41 , > > > > >请求的params是：
+[2020-06-05 16:41:40,185] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:42 , > > > > >请求的body是：
+[2020-06-05 16:41:40,185] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:43 , > > > > >断言内容assertRes是：
+[2020-06-05 16:41:40,185] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:30 , ==========【当前执行用例是：：】==========
+[2020-06-05 16:41:40,185] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:37 , > > > > >请求的method是：
+[2020-06-05 16:41:40,185] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:38 , > > > > >请求的url是：
+[2020-06-05 16:41:40,185] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:39 , > > > > >请求的headers是：
+[2020-06-05 16:41:40,185] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:40 , > > > > >请求的cookies是：
+[2020-06-05 16:41:40,185] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:41 , > > > > >请求的params是：
+[2020-06-05 16:41:40,186] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:42 , > > > > >请求的body是：
+[2020-06-05 16:41:40,186] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:43 , > > > > >断言内容assertRes是：
+[2020-06-05 16:43:40,742] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:30 , ==========【当前执行用例是：case_1：test_user_profile_ok】==========
+[2020-06-05 16:43:40,743] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:37 , > > > > >请求的method是：GET
+[2020-06-05 16:43:40,743] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:38 , > > > > >请求的url是：https://sandboximb8.bixin.com/messenger/api/v3/profile.setMe
+[2020-06-05 16:43:40,743] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:39 , > > > > >请求的headers是：{"Cookie": "bixin_session_id=lh7zxnvqy8kaznpnv4woscdakfwx4jvi; djlanguage=zh-Hans; csrftoken=evJpwFREhPlxZErPw2D9oFAOOpQZ1irCyOesj1emuPm8bjPyScMt4MIlSe6oHsFx; SERVERID=s1; _ga=GA1.2.78407790.1591253180; browser=FiHlO9cRW_D1tzwafBlwug", "X-Access-Token": "8924e7677e0849978413640c3c8182eb", "Content-Type": "application/json", "User-Agent": "bixin-ios/2020060101 (iPhone; iOS 13.3; Scale/3.00; com.bixin.bixininhouse; asdev; UUID/520FC540-2A53-48B8-9692-F75833B9F82C; Version/3.8.8; DeviceModel/iPhone9,2; SystemVersion/13.3)"}
+[2020-06-05 16:43:40,743] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:40 , > > > > >请求的cookies是：
+[2020-06-05 16:43:40,743] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:41 , > > > > >请求的params是：
+[2020-06-05 16:43:40,743] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:42 , > > > > >请求的body是：
+[2020-06-05 16:43:40,743] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:43 , > > > > >断言内容assertRes是：$..ok=true;
+[2020-06-05 16:43:41,165] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:58 , 执行请求后，结果是：{"ok": true, "data": [{"limit": 0, "name_des": "\u5934\u50cf", "name": "avatar", "value": "https://prod.243096.com/upload/2019/10/14/04f2f01f113744c893aab83c3bb15507.png-thumb", "can_modify": true}, {"limit": 16, "name_des": "\u6635\u79f0", "name": "nickname", "value": "\u5c0f\u4e5d\u4e5d", "can_modify": true}, {"limit": 16, "name_des": "UID", "name": "username", "value": "xiaojiu01", "can_modify": false}, {"limit": 0, "name_des": "\u6027\u522b", "name": "gender", "value": "\u5973", "can_modify": false}]}
+[2020-06-05 16:43:41,167] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:66 , 断言结果是：fail
+
+
+[2020-06-05 16:43:41,180] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:30 , ==========【当前执行用例是：：】==========
+[2020-06-05 16:43:41,180] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:37 , > > > > >请求的method是：
+[2020-06-05 16:43:41,180] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:38 , > > > > >请求的url是：
+[2020-06-05 16:43:41,180] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:39 , > > > > >请求的headers是：
+[2020-06-05 16:43:41,180] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:40 , > > > > >请求的cookies是：
+[2020-06-05 16:43:41,180] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:41 , > > > > >请求的params是：
+[2020-06-05 16:43:41,180] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:42 , > > > > >请求的body是：
+[2020-06-05 16:43:41,181] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:43 , > > > > >断言内容assertRes是：
+[2020-06-05 16:43:41,181] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:30 , ==========【当前执行用例是：：】==========
+[2020-06-05 16:43:41,181] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:37 , > > > > >请求的method是：
+[2020-06-05 16:43:41,181] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:38 , > > > > >请求的url是：
+[2020-06-05 16:43:41,181] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:39 , > > > > >请求的headers是：
+[2020-06-05 16:43:41,181] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:40 , > > > > >请求的cookies是：
+[2020-06-05 16:43:41,181] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:41 , > > > > >请求的params是：
+[2020-06-05 16:43:41,181] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:42 , > > > > >请求的body是：
+[2020-06-05 16:43:41,181] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:43 , > > > > >断言内容assertRes是：
+[2020-06-05 16:43:41,182] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:30 , ==========【当前执行用例是：：】==========
+[2020-06-05 16:43:41,182] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:37 , > > > > >请求的method是：
+[2020-06-05 16:43:41,182] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:38 , > > > > >请求的url是：
+[2020-06-05 16:43:41,182] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:39 , > > > > >请求的headers是：
+[2020-06-05 16:43:41,182] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:40 , > > > > >请求的cookies是：
+[2020-06-05 16:43:41,182] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:41 , > > > > >请求的params是：
+[2020-06-05 16:43:41,182] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:42 , > > > > >请求的body是：
+[2020-06-05 16:43:41,182] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:43 , > > > > >断言内容assertRes是：
+[2020-06-05 16:45:33,138] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:30 , ==========【当前执行用例是：case_1：test_user_profile_ok】==========
+[2020-06-05 16:45:33,138] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:37 , > > > > >请求的method是：GET
+[2020-06-05 16:45:33,138] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:38 , > > > > >请求的url是：https://sandboximb8.bixin.com/messenger/api/v3/profile.setMe
+[2020-06-05 16:45:33,138] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:39 , > > > > >请求的headers是：{"Cookie": "bixin_session_id=lh7zxnvqy8kaznpnv4woscdakfwx4jvi; djlanguage=zh-Hans; csrftoken=evJpwFREhPlxZErPw2D9oFAOOpQZ1irCyOesj1emuPm8bjPyScMt4MIlSe6oHsFx; SERVERID=s1; _ga=GA1.2.78407790.1591253180; browser=FiHlO9cRW_D1tzwafBlwug", "X-Access-Token": "8924e7677e0849978413640c3c8182eb", "Content-Type": "application/json", "User-Agent": "bixin-ios/2020060101 (iPhone; iOS 13.3; Scale/3.00; com.bixin.bixininhouse; asdev; UUID/520FC540-2A53-48B8-9692-F75833B9F82C; Version/3.8.8; DeviceModel/iPhone9,2; SystemVersion/13.3)"}
+[2020-06-05 16:45:33,139] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:40 , > > > > >请求的cookies是：
+[2020-06-05 16:45:33,139] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:41 , > > > > >请求的params是：
+[2020-06-05 16:45:33,139] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:42 , > > > > >请求的body是：
+[2020-06-05 16:45:33,139] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:43 , > > > > >断言内容assertRes是：$..ok=true;
+[2020-06-05 16:45:33,846] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:58 , 执行请求后，结果是：{"ok": true, "data": [{"limit": 0, "name_des": "\u5934\u50cf", "name": "avatar", "value": "https://prod.243096.com/upload/2019/10/14/04f2f01f113744c893aab83c3bb15507.png-thumb", "can_modify": true}, {"limit": 16, "name_des": "\u6635\u79f0", "name": "nickname", "value": "\u5c0f\u4e5d\u4e5d", "can_modify": true}, {"limit": 16, "name_des": "UID", "name": "username", "value": "xiaojiu01", "can_modify": false}, {"limit": 0, "name_des": "\u6027\u522b", "name": "gender", "value": "\u5973", "can_modify": false}]}
+[2020-06-05 16:45:33,848] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:66 , 断言结果是：fail
+
+
+[2020-06-05 16:52:35,241] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:30 , ==========【当前执行用例是：case_1：test_user_profile_ok】==========
+[2020-06-05 16:52:35,242] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:37 , > > > > >请求的method是：GET
+[2020-06-05 16:52:35,242] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:38 , > > > > >请求的url是：https://sandboximb8.bixin.com/messenger/api/v3/profile.setMe
+[2020-06-05 16:52:35,242] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:39 , > > > > >请求的headers是：{"Cookie": "bixin_session_id=lh7zxnvqy8kaznpnv4woscdakfwx4jvi; djlanguage=zh-Hans; csrftoken=evJpwFREhPlxZErPw2D9oFAOOpQZ1irCyOesj1emuPm8bjPyScMt4MIlSe6oHsFx; SERVERID=s1; _ga=GA1.2.78407790.1591253180; browser=FiHlO9cRW_D1tzwafBlwug", "X-Access-Token": "8924e7677e0849978413640c3c8182eb", "Content-Type": "application/json", "User-Agent": "bixin-ios/2020060101 (iPhone; iOS 13.3; Scale/3.00; com.bixin.bixininhouse; asdev; UUID/520FC540-2A53-48B8-9692-F75833B9F82C; Version/3.8.8; DeviceModel/iPhone9,2; SystemVersion/13.3)"}
+[2020-06-05 16:52:35,242] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:40 , > > > > >请求的cookies是：
+[2020-06-05 16:52:35,242] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:41 , > > > > >请求的params是：
+[2020-06-05 16:52:35,242] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:42 , > > > > >请求的body是：
+[2020-06-05 16:52:35,242] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:43 , > > > > >断言内容assertRes是：$..ok=true;
+[2020-06-05 16:52:35,631] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:58 , 执行请求后，结果是：{"ok": true, "data": [{"limit": 0, "name_des": "\u5934\u50cf", "name": "avatar", "value": "https://prod.243096.com/upload/2019/10/14/04f2f01f113744c893aab83c3bb15507.png-thumb", "can_modify": true}, {"limit": 16, "name_des": "\u6635\u79f0", "name": "nickname", "value": "\u5c0f\u4e5d\u4e5d", "can_modify": true}, {"limit": 16, "name_des": "UID", "name": "username", "value": "xiaojiu01", "can_modify": false}, {"limit": 0, "name_des": "\u6027\u522b", "name": "gender", "value": "\u5973", "can_modify": false}]}
+[2020-06-05 16:52:35,633] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:66 , 断言结果是：fail
+
+
+[2020-06-05 16:54:40,024] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:30 , ==========【当前执行用例是：case_1：test_user_profile_ok】==========
+[2020-06-05 16:54:40,024] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:37 , > > > > >请求的method是：GET
+[2020-06-05 16:54:40,024] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:38 , > > > > >请求的url是：https://sandboximb8.bixin.com/messenger/api/v3/profile.setMe
+[2020-06-05 16:54:40,024] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:39 , > > > > >请求的headers是：{"Cookie": "bixin_session_id=lh7zxnvqy8kaznpnv4woscdakfwx4jvi; djlanguage=zh-Hans; csrftoken=evJpwFREhPlxZErPw2D9oFAOOpQZ1irCyOesj1emuPm8bjPyScMt4MIlSe6oHsFx; SERVERID=s1; _ga=GA1.2.78407790.1591253180; browser=FiHlO9cRW_D1tzwafBlwug", "X-Access-Token": "8924e7677e0849978413640c3c8182eb", "Content-Type": "application/json", "User-Agent": "bixin-ios/2020060101 (iPhone; iOS 13.3; Scale/3.00; com.bixin.bixininhouse; asdev; UUID/520FC540-2A53-48B8-9692-F75833B9F82C; Version/3.8.8; DeviceModel/iPhone9,2; SystemVersion/13.3)"}
+[2020-06-05 16:54:40,024] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:40 , > > > > >请求的cookies是：
+[2020-06-05 16:54:40,025] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:41 , > > > > >请求的params是：
+[2020-06-05 16:54:40,025] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:42 , > > > > >请求的body是：
+[2020-06-05 16:54:40,025] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:43 , > > > > >断言内容assertRes是：$..ok=True;
+[2020-06-05 16:54:40,543] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:58 , 执行请求后，结果是：{"ok": true, "data": [{"limit": 0, "name_des": "\u5934\u50cf", "name": "avatar", "value": "https://prod.243096.com/upload/2019/10/14/04f2f01f113744c893aab83c3bb15507.png-thumb", "can_modify": true}, {"limit": 16, "name_des": "\u6635\u79f0", "name": "nickname", "value": "\u5c0f\u4e5d\u4e5d", "can_modify": true}, {"limit": 16, "name_des": "UID", "name": "username", "value": "xiaojiu01", "can_modify": false}, {"limit": 0, "name_des": "\u6027\u522b", "name": "gender", "value": "\u5973", "can_modify": false}]}
+[2020-06-05 16:54:40,547] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:66 , 断言结果是：pass
+
+
+[2020-06-05 17:17:26,814] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:30 , ==========【当前执行用例是：case_1：test_user_profile_ok】==========
+[2020-06-05 17:17:26,815] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:37 , > > > > >请求的method是：GET
+[2020-06-05 17:17:26,815] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:38 , > > > > >请求的url是：https://sandboximb8.bixin.com/messenger/api/v3/profile.setMe
+[2020-06-05 17:17:26,815] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:39 , > > > > >请求的headers是：{"Cookie": "bixin_session_id=lh7zxnvqy8kaznpnv4woscdakfwx4jvi; djlanguage=zh-Hans; csrftoken=evJpwFREhPlxZErPw2D9oFAOOpQZ1irCyOesj1emuPm8bjPyScMt4MIlSe6oHsFx; SERVERID=s1; _ga=GA1.2.78407790.1591253180; browser=FiHlO9cRW_D1tzwafBlwug", "X-Access-Token": "8924e7677e0849978413640c3c8182eb", "Content-Type": "application/json", "User-Agent": "bixin-ios/2020060101 (iPhone; iOS 13.3; Scale/3.00; com.bixin.bixininhouse; asdev; UUID/520FC540-2A53-48B8-9692-F75833B9F82C; Version/3.8.8; DeviceModel/iPhone9,2; SystemVersion/13.3)"}
+[2020-06-05 17:17:26,816] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:40 , > > > > >请求的cookies是：
+[2020-06-05 17:17:26,816] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:41 , > > > > >请求的params是：
+[2020-06-05 17:17:26,816] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:42 , > > > > >请求的body是：
+[2020-06-05 17:17:26,816] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:43 , > > > > >断言内容assertRes是：$..ok=True;
+[2020-06-05 17:17:27,272] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:58 , 执行请求后，结果是：{"ok": true, "data": [{"limit": 0, "name_des": "\u5934\u50cf", "name": "avatar", "value": "https://prod.243096.com/upload/2019/10/14/04f2f01f113744c893aab83c3bb15507.png-thumb", "can_modify": true}, {"limit": 16, "name_des": "\u6635\u79f0", "name": "nickname", "value": "\u5c0f\u4e5d\u4e5d", "can_modify": true}, {"limit": 16, "name_des": "UID", "name": "username", "value": "xiaojiu01", "can_modify": false}, {"limit": 0, "name_des": "\u6027\u522b", "name": "gender", "value": "\u5973", "can_modify": false}]}
+[2020-06-05 17:17:27,274] [DEBUG] [/Users/bixin/Downloads/my_rf-2/test_case/test_cases.py : test_my_request_:66 , 断言结果是：pass
+
+
