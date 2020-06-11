@@ -1,10 +1,5 @@
 # python版接口自动化测试框架（unittest + 关联 + excle + ddt）
 
-- 更多测试分享，请访问[**博客**](https://www.cnblogs.com/uncleyong/p/10530261.html)：https://www.cnblogs.com/uncleyong/p/10530261.html
-- 更多测试干货，请关注：**微信公众号：全栈测试笔记**
-- ![微信公众号：全栈测试笔记](https://files-cdn.cnblogs.com/files/uncleyong/qzcsbj.bmp)
-
-
 ## 设计思路
 - unittest + 关联 + excle + ddt
 
